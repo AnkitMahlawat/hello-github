@@ -2,7 +2,7 @@
 
 
 
-hello-world repository for github
+hello-world repository
 
 
 
